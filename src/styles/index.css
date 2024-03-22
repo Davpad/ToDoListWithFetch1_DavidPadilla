@@ -1,4 +1,11 @@
+body{
+    background-color: azure;
+}
 
+ul {
+    list-style-type: none;
+    width: 400px;
+  }
 /* 
 
     You can write your own styles here...
